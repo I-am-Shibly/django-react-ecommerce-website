@@ -1,0 +1,92 @@
+main{
+  min-height: 80vh;
+}
+
+h1{
+  font-size: 0.8rem;
+  padding: 1rem 0;
+}
+
+h2{
+  font-size: 0.5rem;
+  padding: 0.4rem;
+}
+
+h3{
+  padding: 1rem 0;
+}
+
+.rating span{
+  padding: 0.1rem;
+}
+
+a{
+  text-decoration: none !important;
+}
+
+/* shopping cart */
+
+.badge {
+  padding-left: 9px;
+  padding-right: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+
+.label-warning[href],
+.badge-warning[href] {
+  background-color: #c67605;
+}
+#lblCartCount {
+    position:relative;
+    border-radius: 90px;
+    font-size: 12px;
+    background: #4ee014;
+    color: rgb(0, 0, 0);
+    padding: 0 5px;
+    vertical-align: top;
+    top: -8px;
+    right: -4px; 
+    margin-left: -10px; 
+}
+
+
+
+/* carousel */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
+
+.carousel-caption h4 {
+  color: #fff;
+}
+
+.carousel img {
+  display:block;
+  height: 300px;
+  padding: 30px;
+  margin: 40px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel a {
+  margin: 0 auto;
+}
+@media (max-width: 900px) {
+  .carousel-caption h2 {
+    font-size: 2.5vw;
+  }
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
