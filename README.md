@@ -3,6 +3,12 @@
 ## Homepage
 ![preview](https://github.com/I-am-Shibly/django-react-ecommerce-website/blob/main/preview/homepage.jpeg?raw=true)
 
+## Cart page
+![preview](https://github.com/I-am-Shibly/django-react-ecommerce-website/blob/main/preview/cart-page.png?raw=true)
+
+## User can view product details and give review
+![preview](https://github.com/I-am-Shibly/django-react-ecommerce-website/blob/main/preview/product-details.jpeg?raw=true)
+
 ## User Login
 ![preview](https://github.com/I-am-Shibly/django-react-ecommerce-website/blob/main/preview/user-login.jpeg?raw=true)
 
